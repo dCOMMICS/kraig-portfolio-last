@@ -1,6 +1,6 @@
 import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header"; // nikitoa hii line kuna kuwa na error 
+ // nikitoa hii line kuna kuwa na error 
 
 // components
 
